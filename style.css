@@ -7,7 +7,7 @@ nav{
 *topbar {
     width: 37%;
     height: 15vh;
-    color: blue;
+    color: white;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
